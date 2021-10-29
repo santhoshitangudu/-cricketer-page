@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:"roboto";
+}
+.rahul-bg-container{
+    background-color: #fb4e71;
+    padding: 10px;
+}
+.rahul-bg-container h1{
+    color: white;
+    font-size: 20px;
+}
+.rahul-bg-container p{
+    color: rgb(243, 211, 211);
+    font-size: 12px;
+
+}
+.ipl-records{
+    background-color: #e6f6ff;
+    padding: 10px;
+}
+.ipl-records h6{
+    font-weight: bold;
+    color: #323f4b;
+}
+.kxip-vs-rcb{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+.kxip-vs-rcb h6{
+    font-size: 12px;
+}
+.kxip-vs-rcb p{
+    color: #748391;
+    font-size: 12px;
+}
+.video-contant{
+    width: 93px;
+    margin: 4px;
+}
+.video-contant .para{
+    font-size: 12px;
+}
